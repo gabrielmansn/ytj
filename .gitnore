@@ -1,0 +1,32 @@
+# Data-tiedostot (isot ja arkaluonteiset)
+*.csv
+*.xlsx
+*.xls
+*.json
+data/
+output/
+
+# Asetukset (API-avaimet!)
+config/asetukset.py
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
